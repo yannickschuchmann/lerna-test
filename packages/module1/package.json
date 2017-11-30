@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "module2": "^1.1.1"
+    "jest": "^21.2.1",
+    "module2": "^1.1.1",
+    "react": "^16.2.0"
   }
 }
