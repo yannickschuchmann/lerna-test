@@ -1,6 +1,6 @@
 {
   "name": "module1",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^21.2.1",
-    "module2": "^1.1.1",
+    "module2": "^3.0.0",
     "react": "^16.2.0"
   }
 }
